@@ -111,22 +111,6 @@ into your MySQL server.
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-
-(Add screenshot here)
-
-### Dashboard
-
-(Add screenshot here)
-
-### Management System
-
-(Add screenshot here)
-
----
-
 ## 💡 Future Improvements
 
 * AI-powered assistant
@@ -139,7 +123,7 @@ into your MySQL server.
 
 ## 👨‍💻 Author
 
-Yang Xinling
+ikollec yang
 
 GitHub:
 https://github.com/ikollecyang-eng
